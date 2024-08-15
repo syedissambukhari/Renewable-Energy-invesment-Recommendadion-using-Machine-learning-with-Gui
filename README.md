@@ -73,10 +73,6 @@ This project aims to recommend optimal investments in renewable energy projects 
 
 
 
-![GUI Screenshot 1](path/to/screenshot1.png)
-
-![GUI Screenshot 2](path/to/screenshot2.png)
-
 ## Project Structure
 
 - `main.py`: Main file to run the application.
